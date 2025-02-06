@@ -1,31 +1,14 @@
-# Node.js dependencies
+# Dependências
 node_modules/
 package-lock.json
 
-# Build files
+# Build
 dist/
 build/
 
-# Editor/IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Logs e caches
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-/coverage
-/.eslintcache
-/.turbo
-
-# Ambiente e configurações locais
-.env
-.env.local
+# Configuração do sistema
 .DS_Store
+.vscode/
 
-# Git e sistema
-.git/
+# Arquivos de ambiente
+.env

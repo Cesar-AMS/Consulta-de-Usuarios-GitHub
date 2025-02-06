@@ -38,3 +38,26 @@ Este projeto tem como objetivo fornecer uma interface simples e eficiente para c
 
 
 
+
+Consulta-de-Usuarios-GitHub/
+├── public/
+│   ├── index.html          # Arquivo HTML principal
+│   ├── favicon.ico         # Ícone da aplicação
+│   └── manifest.json       # Informações sobre o app, como ícones e temas
+├── src/
+│   ├── assets/             # Imagens, fontes e outros recursos estáticos
+│   ├── components/         # Componentes reutilizáveis da aplicação
+│   │   ├── Header.js       # Componente do cabeçalho
+│   │   ├── UserProfile.js  # Componente para exibir as informações do usuário
+│   │   ├── RepoList.js     # Componente para listar os repositórios
+│   │   └── Stats.js        # Componente para exibir as estatísticas do usuário
+│   ├── services/           # Arquivo para integrar com APIs externas
+│   │   └── githubApi.js    # Funções para fazer chamadas para a API do GitHub
+│   ├── App.js              # Componente principal da aplicação
+│   ├── index.js            # Ponto de entrada do React
+│   ├── App.css             # Estilos globais da aplicação
+│   └── index.css           # Estilos globais da aplicação
+├── .gitignore              # Arquivo que define o que deve ser ignorado pelo git
+├── package.json            # Definições do projeto, dependências e scripts
+├── README.md               # Documentação do projeto
+└── package-lock.json       # Registro das dependências do projeto
