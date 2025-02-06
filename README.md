@@ -40,7 +40,7 @@ Este projeto tem como objetivo fornecer uma interface simples e eficiente para c
 
 
 
-Consulta-de-Usuarios-GitHub/
+**Consulta-de-Usuarios-GitHub/
 ├── public/
 │   ├── index.html          # Arquivo HTML principal
 │   ├── favicon.ico         # Ícone da aplicação
@@ -62,3 +62,4 @@ Consulta-de-Usuarios-GitHub/
 ├── package.json            # Definições do projeto, dependências e scripts
 ├── README.md               # Documentação do projeto
 └── package-lock.json       # Registro das dependências do projeto
+**
