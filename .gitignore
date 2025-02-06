@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+build/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+/coverage
+/.eslintcache
+/.turbo
+
+# Ambiente e configurações locais
+.env
+.env.local
+.DS_Store
+
+# Git e sistema
+.git/
