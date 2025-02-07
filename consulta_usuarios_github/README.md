@@ -1,4 +1,3 @@
-# React + Vite
 # Consulta de Usuários GitHub
 
 Este projeto tem como objetivo fornecer uma interface simples e eficiente para consultar e exibir informações de usuários do GitHub, como repositórios, estatísticas e perfis. Ele foi construído utilizando **React**, **JavaScript (ES6+)**, **HTML**, **CSS** e outras tecnologias modernas.
@@ -39,7 +38,7 @@ Este projeto tem como objetivo fornecer uma interface simples e eficiente para c
 
 
 
-
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
